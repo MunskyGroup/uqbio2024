@@ -16,6 +16,13 @@ Zachary Fox, and Eric Ron.
 </p>
 </html>
 
+*[Python Setup](#python-setup)
+
+*[Installing Anaconda](#installing-anaconda-or-miniconda)
+
+*[Creating an Environment](#creating-an-environment)
+
+*[Using your new environment](#using-your-new-environment-in-vs-code)
 
 ## Python Setup 
 
@@ -25,7 +32,7 @@ First we need an environment manager! Using an environment manager is good pract
 
 Download and install either anaconda or miniconda from:  https://www.anaconda.com/download. Anaconda includes more packages and features that come with it but is around 5 gigabytes to install. Miniconda installs just the bare necessities and is 400 mb. For our purposes either works.
 
-### Creating an environment for the course
+### Creating an Environment
 
 Once you have conda installed, we need to create a new environment for the class. 
 
