@@ -24,6 +24,10 @@ Zachary Fox, and Eric Ron.
 
 *[Using your new environment](#using-your-new-environment-in-vs-code)
 
+*[More Python Learning Resources](#learning-python-resources)
+
+*[Getting Started with GitHub](#getting-started-with-github)
+
 ## Python Setup 
 
 ### Installing Anaconda or Miniconda
@@ -84,6 +88,22 @@ If all these packages import with no errors then your environment is intact and 
 
 Python 3.10 documentation's tutorial: https://docs.python.org/3.10/tutorial/index.html
 
+
+## Getting Started with GitHub
+
+### Signing up for an Account
+
+### Cloning your first repository
+
+### Committing and Pushing Changes
+
+### Resolving Conflicts
+
+### Reverting Changes
+
+### Using the GitHub Desktop Client
+
+### Using GitHub in the VS Code IDE
 
 ## Licensing
 
