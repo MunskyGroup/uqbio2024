@@ -18,13 +18,7 @@ Zachary Fox, and Eric Ron.
 
 *[Python Setup](#python-setup)
 
-*[Installing Anaconda](#installing-anaconda-or-miniconda)
-
 *[Creating an Environment](#creating-an-environment)
-
-*[Using your new environment](#using-your-new-environment-in-vs-code)
-
-*[More Python Learning Resources](#learning-python-resources)
 
 *[Getting Started with GitHub](#getting-started-with-github)
 
