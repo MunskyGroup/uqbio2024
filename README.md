@@ -51,7 +51,7 @@ Once you have conda installed, we need to create a new environment for the class
    5. ```pip install biopython```
    ![](./uqbio2024_files/step5.png)
 
-   6. ```conda install -c soft-matter trackpy``` - installing trackpy 
+   6. ```conda install trackpy``` - installing trackpy 
 
    7. Last thing to install is ```cellpose``` which is a little invovled and requires ```pytorch```. 
       * For **GPU** acceleration, you need an nvidea graphics card and a CUDAtoolkit to check these go to the following website: https://pytorch.org/get-started/locally/ and run the command given there for your system. PLEASE REMOVE ```torchvision``` and ```torchaudio``` from the command! This will save you time and space as we are not using those packages. After CUDA and ```torch``` are installed, run the following command to install cellpose: ```pip install git+https://www.github.com/mouseland/cellpose.git```
