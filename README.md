@@ -85,6 +85,59 @@ Python 3.10 documentation's tutorial: https://docs.python.org/3.10/tutorial/inde
 
 ## Getting Started with GitHub
 
+We are going to use and share a lot of codes during the summer school, and it can be difficult to keep track of who is working on what.  To help us with this common concern, we are going to use GitHub for version control. 
+
+This is also how course homework can be submitted and graded throughout the program, so if you want fast feedback, it is very important for you to learn how to use GitHub!
+
+Please follow these steps to get started using GitHub (and to complete your first homework assignment):
+
+**Step 1** Visit [https://github.com/](https://github.com/) and sign up for a free account. Keep track of your user name and password, and you may need to set up two-factor identification. Follow instructions to do so.
+
+**Step 2** Once you have a GitHub account, go to Homework 1 (GitHub Introduction) at [https://classroom.github.com/a/OhptcG8t](https://classroom.github.com/a/OhptcG8t) to get access to your first UQ-Bio Summer School Homework Assignment. This will take you to a signup sheet for the class. 
+
+**Step 3** Look for your name in the list and click to claim your spot. If you are not yet listed, click "skip to the next step" (also make sure you signed up for the class at: [https://forms.gle/ux67KhtV7Q3pDgrZ8](https://forms.gle/ux67KhtV7Q3pDgrZ8). Refresh a few times until your repository is created and then follow the links.
+
+**Step 4** Once the repository is ready, a link will appear: "https://github.com/MunskyGroup/uqbio2024_github-[YOURNAME])," where [YOURNAME] is replaced with your GitHub userID.  Follow this link to your own personal repository to see your first assignment.
+
+**Step 5** If you are not an expert on GitHub already, I recommend using the GitHub Desktop Client for performing necessary GitHub tasks. Download this at: [https://desktop.github.com](https://desktop.github.com).
+
+**Step 6** Once you have installed GitHub Desktop, launch it, and it will ask you to sign in as a GitHub user (use your account from Step 1).
+
+**Step 7** You will reach a page titled "Let's get started". Click the button "clone a repository" on the second from the top on the left. Type your repository name ("MunskyGroup/uqbio2024_github-[YOURNAME]")
+Click the button "Clone" at the bottom.
+
+If all went well, you should now be able to follow along with our class exercises and be able to complete the first part of the first homework assignment.
+
+Additional Notes (Post Class)
+
+Helpful Tutorial on getting started inGitHub Desktop:
+
+Here is a link to some very helpful instructions for using GitHub Desktop:
+
+https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
+
+
+Suggestions for editors to use for modifying your README file:
+
+Windows users should be able to edit the README in Notepad++, which should be automatically installed.
+
+Mac users should be able to edit it in TextEdit, which should come pre-installed.
+
+You can also edit readme directly on the GitHub page, which is what I usually do.
+
+Slides Describing the Practice of Git and GitHub
+
+Please check out these slides from Dmitri to learn more about the uses and best practices for Git and GitHub
+
+GitAndGitHub.pdf
+
+
+github-git-cheatsheet.pdf
+
+
+
+
+
 ### Signing up for an Account
 
 ### Cloning your first repository
