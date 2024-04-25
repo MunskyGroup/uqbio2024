@@ -110,49 +110,21 @@ Click the button "Clone" at the bottom.
 
 If all went well, you should now be able to follow along with our class exercises and be able to complete the first part of the first homework assignment.
 
-Additional Notes (Post Class)
 
-Helpful Tutorial on getting started inGitHub Desktop:
 
-Here is a link to some very helpful instructions for using GitHub Desktop:
-
-https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
-
+### Helpful GitHub Tutorials:
+Tutorial on getting started in GitHub Desktop: [GitHub Desktop Tutorial](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)
 
 Suggestions for editors to use for modifying your README file:
+* You can edit the readme directly in VSCode.
+* Windows users should be able to edit the README in Notepad++, which should be automatically installed.
+* Mac users should be able to edit it in TextEdit, which should come pre-installed.
+* You can also edit readme directly on the GitHub page, which is what I usually do.
 
-Windows users should be able to edit the README in Notepad++, which should be automatically installed.
+Slides Describing the Practice of Git and GitHub: [GitAndGitHub.pdf]
 
-Mac users should be able to edit it in TextEdit, which should come pre-installed.
+Cheatsheet with GitHub Commands: [github-git-cheatsheet.pdf]
 
-You can also edit readme directly on the GitHub page, which is what I usually do.
-
-Slides Describing the Practice of Git and GitHub
-
-Please check out these slides from Dmitri to learn more about the uses and best practices for Git and GitHub
-
-GitAndGitHub.pdf
-
-
-github-git-cheatsheet.pdf
-
-
-
-
-
-### Signing up for an Account
-
-### Cloning your first repository
-
-### Committing and Pushing Changes
-
-### Resolving Conflicts
-
-### Reverting Changes
-
-### Using the GitHub Desktop Client
-
-### Using GitHub in the VS Code IDE
 
 ## Licensing
 
