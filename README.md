@@ -121,7 +121,7 @@ Suggestions for editors to use for modifying your README file:
 * Mac users should be able to edit it in TextEdit, which should come pre-installed.
 * You can also edit readme directly on the GitHub page, which is what I usually do.
 
-Slides discussing GitHub Best Practices: [Add Dmitri's slides here]
+[Slides discussing Git and GitHub philosophy and best practices](uqbio2024_files/GitAndGitHubPresentation_2024UQ-BioSummerSchool.pdf)
 
 Cheatsheet with GitHub Commands: [github-git-cheatsheet.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
 
