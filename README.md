@@ -17,11 +17,57 @@ Eric Ron, and Dmitri Svetlov
 </p>
 </html>
 
-*[Python Setup](#python-setup)
+* [Course Materials](#course-materials)
 
-*[Creating an Environment](#creating-an-environment)
+* [Python Setup](#python-setup)
 
-*[Getting Started with GitHub](#getting-started-with-github)
+* [Creating an Environment](#creating-an-environment)
+
+* [Getting Started with GitHub](#getting-started-with-github)
+
+
+## Course Materials
+
+
+<left><h3> Module 1 : Getting Started with Basic Scientific Computing in Python. </h3></left>
+| Date (MST) | Description | Notebook(s) | Homework |
+| --------| -------- | -------- | -------- |
+| Before May 29th | Hello (Python) world, types, arithmetic operations, iterables, and containers  | [➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) | 
+| Before May 29th | Loops, Ranges, Functions, Lambdas | [➡️](./Module1-PreliminaryPython/M1B_Python_Loops_and_Functions.ipynb) | 
+| Before May 29th | Importing packages, classes/modules, os navigation, file managment basics  | [➡️](./Module1-PreliminaryPython/M1C_Packages_and_File_Management.ipynb) | 
+| Before May 29th | NumPy and linear algebra review in Python | [➡️](./Module1-PreliminaryPython/M1D_NumPy_and_Linear_Algebra.ipynb) | 
+| Before May 29th | Visualizing biological data using Matplotlib | [➡️](./Module1-PreliminaryPython/M1E_Matplotlib.ipynb) | 
+___
+
+<left><h3> Module 2 : Optical Microscopy Experiments and Image Processing. </h3></left>
+| Date (MST)  | Description |Instructor | Notebook(s)  | Homework |
+| -------- | -------- | -------- | -------- | -------- |
+| June 4  | Python Preliminary Image Loading and Processing | Dr. Luis Aguilera | <ul>[Basics ➡️](./Module2-ImageProcessing/M2A_Basic_Image_Processing.ipynb)  </ul><ul>[Processing Digits ➡️](./Module2-ImageProcessing/M2B_Processing_Handwrtten_Digits.ipynb) </ul><ul>[Segmentation ➡️](./Module2-ImageProcessing/M2C_Segmenting_Images.ipynb) </ul> <ul>[Particle Tracking ➡️](./M2D_Tracking_Particles.ipynb)</ul>   | HW4 |   | 
+| June 5 | Molecular Labeling and Imaging Technology for Cells  | Eric Ron |  | 
+___
+
+<left><h3> Module 3 :  Multivariable Statistics and Machine Learning for Biological Data.  </h3></left>
+| Date (MST)  | Description |Instructor | Notebook(s)  | Homework |
+| -------- | -------- | -------- | -------- | -------- |
+| June 6 | Statistics | Dr. Keisha Cook | <ul>[Distributions ➡️](./Module3-Statistics/M3A_Distributions_Sampling_Expectations_and_SummaryStatistics.ipynb)  </ul><ul>[Likelihoods ➡️](./Module3-Statistics/M3B_LikelihoodFunctions_Estimation.ipynb) </ul><ul>[Significance ➡️](./Module3-Statistics/M3C_HypothesisTesting_Significance_Pvalues.ipynb) </ul> | 
+| June 7 | Introduction to Machine Learning for Biological Data | Dr. William Raymond  |  <ul>[Regression ➡️](./Module3-Statistics/M3D_Intro_to_ML_and_Basics_of_Regression.ipynb)</ul> <ul>[Basic Classification ➡️](./Module3-Statistics/M3E_Basics_of_Classification.ipynb)</ul>    | HW5
+___
+
+
+
+<left><h3> Module 4 :  Computational Modeling and Stochastic Simulation of Biological Processes. </h3></left>
+| Date (MST) | Description | Instructor | Notebook(s)  | Homework |
+| --------| -------- | -------- | -------- | -------- |
+| June 11 | Stoichiometries, Propensity functions, and ODE Models | Connor King | [Stoichiometries and Propentsities➡️](./Module4-ModelingBiochemicalReactions/M4A_Stoichiometries_Propensities_and_ODE_Models.ipynb)| 
+| June 12 | Stochastic Simulation | Jack Forman and Alex David  | [Stochasitic Simulation ➡️](./Module4-ModelingBiochemicalReactions/M4B_Stochastic_Simulation_Algorithm.ipynb) |
+| June 13 | Chemical Master Equation and the Finite State Projection| Dr. Alex Popinga | [CME ➡️](./Module4-ModelingBiochemicalReactions/M4C_Chemical_Master_Equation.ipynb)| HW6
+___
+
+<left><h3> Module 5 :  Markov Chain Monte Carlo (MCMC) Methods and Model Inference. </h3></left>
+| Date (MST) | Description | Instructor | Notebook(s)  | Homework |
+| --------| -------- | -------- | -------- | -------- |
+| June 14 | Python Tutorial for MCMC | Dr. Kaan Ocal |   <ul>[Bayesian Thinking ➡️](./Module5-BayesianThinkingAndMCMC/M5A_Bayesian_Thinking.ipynb)</ul> <ul>[MCMC ➡️](./Module5-BayesianThinkingAndMCMC/M5B_Markov_Chain_Monte_Carlo.ipynb)</ul>    |  HW6
+___
 
 ## Python Setup 
 
