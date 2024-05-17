@@ -42,7 +42,7 @@ ___
 <left><h3> Module 2 : Optical Microscopy Experiments and Image Processing. </h3></left>
 | Date (MST)  | Description |Instructor | Notebook(s)  | Homework |
 | -------- | -------- | -------- | -------- | -------- |
-| June 4  | Python Preliminary Image Loading and Processing | Dr. Luis Aguilera | <ul>[Basics ➡️](./Module2-ImageProcessing/M2A_Basic_Image_Processing.ipynb)  </ul><ul>[Processing Digits ➡️](./Module2-ImageProcessing/M2B_Processing_Handwrtten_Digits.ipynb) </ul><ul>[Segmentation ➡️](./Module2-ImageProcessing/M2C_Segmenting_Images.ipynb) </ul> <ul>[Particle Tracking ➡️](./M2D_Tracking_Particles.ipynb)</ul>   | HW4 |   | 
+| June 4  | Python Preliminary Image Loading and Processing | Dr. Luis Aguilera | <ul>[Basics ➡️](./Module2-ImageProcessing/M2A_Basic_Image_Processing.ipynb)  </ul><ul>[Processing Digits ➡️](./Module2-ImageProcessing/M2B_Processing_Handwrtten_Digits.ipynb) </ul><ul>[Segmentation ➡️](./Module2-ImageProcessing/M2C_Segmenting_Images.ipynb) </ul> <ul>[Particle Tracking ➡️](./ImageProcessing/M2D_Tracking_Particles.ipynb)</ul>   | HW4 |   | 
 | June 5 | Molecular Labeling and Imaging Technology for Cells  | Eric Ron |  | 
 ___
 
