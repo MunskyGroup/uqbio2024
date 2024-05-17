@@ -32,11 +32,11 @@ Eric Ron, and Dmitri Svetlov
 <left><h3> Module 1 : Getting Started with Basic Scientific Computing in Python. </h3></left>
 | Date (MST) | Description | Notebook(s) | Homework |
 | --------| -------- | -------- | -------- |
-| Before May 29th | Hello (Python) world, types, arithmetic operations, iterables, and containers  | [➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) | 
-| Before May 29th | Loops, Ranges, Functions, Lambdas | [➡️](./Module1-PreliminaryPython/M1B_Python_Loops_and_Functions.ipynb) | 
-| Before May 29th | Importing packages, classes/modules, os navigation, file managment basics  | [➡️](./Module1-PreliminaryPython/M1C_Packages_and_File_Management.ipynb) | 
-| Before May 29th | NumPy and linear algebra review in Python | [➡️](./Module1-PreliminaryPython/M1D_NumPy_and_Linear_Algebra.ipynb) | 
-| Before May 29th | Visualizing biological data using Matplotlib | [➡️](./Module1-PreliminaryPython/M1E_Matplotlib.ipynb) | 
+| Before May 29th | Hello (Python) world, types, arithmetic operations, iterables, and containers  | [➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) | HW1
+| Before May 29th | Loops, Ranges, Functions, Lambdas | [➡️](./Module1-PreliminaryPython/M1B_Python_Loops_and_Functions.ipynb) | HW2
+| Before May 29th | Importing packages, classes/modules, os navigation, file managment basics  | [➡️](./Module1-PreliminaryPython/M1C_Packages_and_File_Management.ipynb) | HW3
+| Before May 29th | NumPy and linear algebra review in Python | [➡️](./Module1-PreliminaryPython/M1D_NumPy_and_Linear_Algebra.ipynb) | HW2
+| Before May 29th | Visualizing biological data using Matplotlib | [➡️](./Module1-PreliminaryPython/M1E_Matplotlib.ipynb) | HW3
 ___
 
 <left><h3> Module 2 : Optical Microscopy Experiments and Image Processing. </h3></left>
