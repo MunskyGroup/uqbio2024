@@ -28,29 +28,30 @@ Eric Ron, and Dmitri Svetlov
 
 ## Course Materials
 
+Below are the course materials for the 2024 UQ-Bio Summer School.  Please pull to refresh this repository often as these materials may change at any time up to the actual lecture date!  Please note that the six suggested homework assignments cover multiple topics. To complete these assigments follow the provided links, clone the repository and commit and push your work to be graded.
 
 <left><h3> Module 1 : Getting Started with Basic Scientific Computing in Python. </h3></left>
-| Date (MST) | Description | Notebook(s) | Homework |
+| Date (MST) | Description | Links to Notebook(s) | Links to Homework |
 | --------| -------- | -------- | -------- |
-| Before May 29th | Hello (Python) world, types, arithmetic operations, iterables, and containers  | [➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) | HW1
-| Before May 29th | Loops, Ranges, Functions, Lambdas | [➡️](./Module1-PreliminaryPython/M1B_Python_Loops_and_Functions.ipynb) | HW2
-| Before May 29th | Importing packages, classes/modules, os navigation, file managment basics  | [➡️](./Module1-PreliminaryPython/M1C_Packages_and_File_Management.ipynb) | HW3
-| Before May 29th | NumPy and linear algebra review in Python | [➡️](./Module1-PreliminaryPython/M1D_NumPy_and_Linear_Algebra.ipynb) | HW2
-| Before May 29th | Visualizing biological data using Matplotlib | [➡️](./Module1-PreliminaryPython/M1E_Matplotlib.ipynb) | HW3
+| Before May 29th | Hello (Python) world, types, arithmetic operations, iterables, and containers  | [Module 1A ➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) | [HW1 ➡️](https://classroom.github.com/a/yS9Z4pH7)
+| Before May 29th | Loops, Ranges, Functions, Lambdas | [Module 1B ➡️](./Module1-PreliminaryPython/M1B_Python_Loops_and_Functions.ipynb) | [HW2 ➡️](https://classroom.github.com/a/myCW-1RM)
+| Before May 29th | Importing packages, classes/modules, os navigation, file managment basics  | [Module 1C ➡️](./Module1-PreliminaryPython/M1C_Packages_and_File_Management.ipynb) | [HW3 ➡️](https://classroom.github.com/a/e0NugNFT)
+| Before May 29th | NumPy and linear algebra review in Python | [Module 1D ➡️](./Module1-PreliminaryPython/M1D_NumPy_and_Linear_Algebra.ipynb) | [HW2 ➡️](https://classroom.github.com/a/myCW-1RM)
+| Before May 29th | Visualizing biological data using Matplotlib | [Module 1E ➡️](./Module1-PreliminaryPython/M1E_Matplotlib.ipynb) | [HW3 ➡️](https://classroom.github.com/a/e0NugNFT)
 ___
 
 <left><h3> Module 2 : Optical Microscopy Experiments and Image Processing. </h3></left>
 | Date (MST)  | Description |Instructor | Notebook(s)  | Homework |
 | -------- | -------- | -------- | -------- | -------- |
-| June 4  | Python Preliminary Image Loading and Processing | Dr. Luis Aguilera | <ul>[Basics ➡️](./Module2-ImageProcessing/M2A_Basic_Image_Processing.ipynb)  </ul><ul>[Processing Digits ➡️](./Module2-ImageProcessing/M2B_Processing_Handwrtten_Digits.ipynb) </ul><ul>[Segmentation ➡️](./Module2-ImageProcessing/M2C_Segmenting_Images.ipynb) </ul> <ul>[Particle Tracking ➡️](./ImageProcessing/M2D_Tracking_Particles.ipynb)</ul>   | HW4 |   | 
-| June 5 | Molecular Labeling and Imaging Technology for Cells  | Eric Ron |  | 
+| June 4  | Image Loading and Processing | Dr. Luis Aguilera | [M2A - Basics ➡️](./Module2-ImageProcessing/M2A_Basic_Image_Processing.ipynb)   | [HW4 ➡️](https://classroom.github.com/a/hToo3Prt) |   | 
+| June 5 | Image Segmentation and Particle Tracking  | Dr. Luis Aguilera | [M2B-Segmentation ➡️](./Module2-ImageProcessing/M2C_Segmenting_Images.ipynb) [Particle Tracking ➡️](./ImageProcessing/M2D_Tracking_Particles.ipynb) [Afternoon Practice](./Module2-ImageProcessing/M2B_Processing_Handwrtten_Digits.ipynb) | [HW4 ➡️](https://classroom.github.com/a/hToo3Prt) |
 ___
 
 <left><h3> Module 3 :  Multivariable Statistics and Machine Learning for Biological Data.  </h3></left>
 | Date (MST)  | Description |Instructor | Notebook(s)  | Homework |
 | -------- | -------- | -------- | -------- | -------- |
-| June 6 | Statistics | Dr. Keisha Cook | <ul>[Distributions ➡️](./Module3-Statistics/M3A_Distributions_Sampling_Expectations_and_SummaryStatistics.ipynb)  </ul><ul>[Likelihoods ➡️](./Module3-Statistics/M3B_LikelihoodFunctions_Estimation.ipynb) </ul><ul>[Significance ➡️](./Module3-Statistics/M3C_HypothesisTesting_Significance_Pvalues.ipynb) </ul> | 
-| June 7 | Introduction to Machine Learning for Biological Data | Dr. William Raymond  |  <ul>[Regression ➡️](./Module3-Statistics/M3D_Intro_to_ML_and_Basics_of_Regression.ipynb)</ul> <ul>[Basic Classification ➡️](./Module3-Statistics/M3E_Basics_of_Classification.ipynb)</ul>    | HW5
+| June 6 | Statistics | Dr. Keisha Cook | <ul>[M3A-Distributions ➡️](./Module3-Statistics/M3A_Distributions_Sampling_Expectations_and_SummaryStatistics.ipynb)  </ul><ul>[M3B-Likelihoods ➡️](./Module3-Statistics/M3B_LikelihoodFunctions_Estimation.ipynb) </ul><ul>[M3C-Significance ➡️](./Module3-Statistics/M3C_HypothesisTesting_Significance_Pvalues.ipynb) </ul> | [HW5 ➡️](https://classroom.github.com/a/4UURF--W)
+| June 7 | Introduction to Machine Learning for Biological Data | Dr. William Raymond  |  <ul>[M3D-Regression ➡️](./Module3-Statistics/M3D_Intro_to_ML_and_Basics_of_Regression.ipynb)</ul> <ul>[M3E-Basic Classification ➡️](./Module3-Statistics/M3E_Basics_of_Classification.ipynb)</ul>    | [HW5 ➡️](https://classroom.github.com/a/4UURF--W)
 ___
 
 
@@ -58,15 +59,15 @@ ___
 <left><h3> Module 4 :  Computational Modeling and Stochastic Simulation of Biological Processes. </h3></left>
 | Date (MST) | Description | Instructor | Notebook(s)  | Homework |
 | --------| -------- | -------- | -------- | -------- |
-| June 11 | Stoichiometries, Propensity functions, and ODE Models | Connor King | [Stoichiometries and Propentsities➡️](./Module4-ModelingBiochemicalReactions/M4A_Stoichiometries_Propensities_and_ODE_Models.ipynb)| 
-| June 12 | Stochastic Simulation | Jack Forman and Alex David  | [Stochasitic Simulation ➡️](./Module4-ModelingBiochemicalReactions/M4B_Stochastic_Simulation_Algorithm.ipynb) |
-| June 13 | Chemical Master Equation and the Finite State Projection| Dr. Alex Popinga | [CME ➡️](./Module4-ModelingBiochemicalReactions/M4C_Chemical_Master_Equation.ipynb)| HW6
+| June 11 | Stoichiometries, Propensity functions, and ODE Models | Connor King | [M4A-Stoichiometries and Propentsities➡️](./Module4-ModelingBiochemicalReactions/M4A_Stoichiometries_Propensities_and_ODE_Models.ipynb)| [HW6 ➡️](https://classroom.github.com/a/tLyhxyma)
+| June 12 | Stochastic Simulation | Jack Forman and Alex David  | [M4B-Stochasitic Simulation ➡️](./Module4-ModelingBiochemicalReactions/M4B_Stochastic_Simulation_Algorithm.ipynb) | [HW6 ➡️](https://classroom.github.com/a/tLyhxyma)
+| June 13 | Chemical Master Equation and the Finite State Projection| Dr. Alex Popinga | [M4C-Chemical Master Equations ➡️](./Module4-ModelingBiochemicalReactions/M4C_Chemical_Master_Equation.ipynb)| [HW6 ➡️](https://classroom.github.com/a/tLyhxyma)
 ___
 
 <left><h3> Module 5 :  Markov Chain Monte Carlo (MCMC) Methods and Model Inference. </h3></left>
 | Date (MST) | Description | Instructor | Notebook(s)  | Homework |
 | --------| -------- | -------- | -------- | -------- |
-| June 14 | Python Tutorial for MCMC | Dr. Kaan Ocal |   <ul>[Bayesian Thinking ➡️](./Module5-BayesianThinkingAndMCMC/M5A_Bayesian_Thinking.ipynb)</ul> <ul>[MCMC ➡️](./Module5-BayesianThinkingAndMCMC/M5B_Markov_Chain_Monte_Carlo.ipynb)</ul>    |  HW6
+| June 14 | Python Tutorial for MCMC | Dr. Kaan Ocal |   <ul>[M5A-Bayesian Thinking ➡️](./Module5-BayesianThinkingAndMCMC/M5A_Bayesian_Thinking.ipynb)</ul> <ul>[M5B-MCMC ➡️](./Module5-BayesianThinkingAndMCMC/M5B_Markov_Chain_Monte_Carlo.ipynb)</ul>    |  [HW6 ➡️](https://classroom.github.com/a/tLyhxyma)
 ___
 
 ## Python Setup 
