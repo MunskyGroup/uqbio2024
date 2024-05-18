@@ -44,7 +44,7 @@ ___
 | Date (MST)  | Description |Instructor | Notebook(s)  | Homework |
 | -------- | -------- | -------- | -------- | -------- |
 | June 4  | Image Loading and Processing | Dr. Luis Aguilera | [M2A - Basics ➡️](./Module2-ImageProcessing/M2A_Basic_Image_Processing.ipynb)   | [HW4 ➡️](https://classroom.github.com/a/hToo3Prt) |   | 
-| June 5 | Image Segmentation and Particle Tracking  | Dr. Luis Aguilera | [M2B-Segmentation ➡️](./Module2-ImageProcessing/M2C_Segmenting_Images.ipynb) [Particle Tracking ➡️](./ImageProcessing/M2D_Tracking_Particles.ipynb) [Afternoon Practice](./Module2-ImageProcessing/M2B_Processing_Handwrtten_Digits.ipynb) | [HW4 ➡️](https://classroom.github.com/a/hToo3Prt) |
+| June 5 | Image Segmentation and Particle Tracking  | Dr. Luis Aguilera | [M2B-Segmentation ➡️](./Module2-ImageProcessing/M2B_Segmenting_Images.ipynb) [M2C-Particle Tracking ➡️](./ImageProcessing/M2C_Tracking_Particles.ipynb) [Afternoon Practice](./Module2-ImageProcessing/M2D_Processing_Handwrtten_Digits.ipynb) | [HW4 ➡️](https://classroom.github.com/a/hToo3Prt) |
 ___
 
 <left><h3> Module 3 :  Multivariable Statistics and Machine Learning for Biological Data.  </h3></left>
