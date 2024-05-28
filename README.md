@@ -94,7 +94,7 @@ Once you have conda installed, we need to create a new environment for the class
    3. ```conda activate uqbio2024_py310```
    ![](./uqbio2024_files/step3.png) you should see your current environment switch to (uqbio2024_py310)
 
-   4. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4 scikit-learn conda-forge::trackpy```
+   4. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image seaborn tifffile beautifulsoup4 scikit-learn conda-forge::trackpy```
    ![](./uqbio2024_files/step4.png)
       * Note this command will take a while and will ask for your confirmation!
 

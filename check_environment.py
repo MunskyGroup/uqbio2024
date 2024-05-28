@@ -11,6 +11,7 @@ import tifffile;
 import torch; 
 import cellpose; 
 import trackpy;
+import seaborn;
 print('All packages imported correctly.')
 
 print('PyTorch has GPU enabled?')
