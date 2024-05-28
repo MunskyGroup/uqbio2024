@@ -8,7 +8,7 @@
            <h3> Authors: </h3> 
            <pre> 
 Brian Munsky, Luis Aguilera, 
-Alex Popinga, Keisha Cook, Kaan Ocal,
+Alex Popinga, Keisha Cook, Kaan  Öcal,
 William Raymond, Zachary Fox, 
 Eric Ron, and Dmitri Svetlov
            </pre>
@@ -17,13 +17,15 @@ Eric Ron, and Dmitri Svetlov
 </p>
 </html>
 
-* [Course Materials](#course-materials)
-
-* [Python Setup](#python-setup)
-
-* [Creating an Environment](#creating-an-environment)
-
-* [Getting Started with GitHub](#getting-started-with-github)
+- [Course Materials](#course-materials)
+- [Python Setup](#python-setup)
+  - [Installing Anaconda or Miniconda](#installing-anaconda-or-miniconda)
+  - [Creating an Environment](#creating-an-environment)
+  - [Using your new environment in VS Code](#using-your-new-environment-in-vs-code)
+  - [Learning Python resources](#learning-python-resources)
+- [Getting Started with GitHub](#getting-started-with-github)
+  - [Helpful GitHub Tutorials:](#helpful-github-tutorials)
+- [Licensing](#licensing)
 
 
 ## Course Materials
