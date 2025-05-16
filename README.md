@@ -175,7 +175,8 @@ Suggestions for editors to use for modifying your README file:
 
 Cheatsheet with GitHub Commands: [github-git-cheatsheet.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
 
-Q-Bio poetry from Brian:
+Click the image for a video of Q-Bio poetry from Brian:
+
 [![Poetry Video from Brian](https://img.youtube.com/vi/MrPRz1_4euA/0.jpg)](https://www.youtube.com/watch?v=MrPRz1_4euA)
 
 ## Licensing
