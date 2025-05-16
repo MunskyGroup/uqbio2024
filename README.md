@@ -176,6 +176,8 @@ Suggestions for editors to use for modifying your README file:
 Cheatsheet with GitHub Commands: [github-git-cheatsheet.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
+[![Poetry Video from Brian](https://img.youtube.com/vi/MrPRz1_4euA/0.jpg)](https://www.youtube.com/watch?v=MrPRz1_4euA)
+
 ## Licensing
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
